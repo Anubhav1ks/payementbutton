@@ -1,0 +1,27 @@
+.row{
+    width:inherit;
+    margin-left: -79px;
+}
+.col-6{
+    width: 55%;
+    margin-left: 58px;  
+}
+.col-3{
+    width: 35%;
+}
+h4 {
+    font-family: sans-serif;
+    position: relative;
+  }
+  hr {
+    display: block;
+    height: 50px; 
+    background: black;
+    position: absolute;
+  }
+.inner-box{
+    margin-left: 80px;
+}
+li{
+    font-size: x-large;
+}
